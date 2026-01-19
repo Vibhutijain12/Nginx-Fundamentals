@@ -64,7 +64,7 @@ node server.js
 
 #### Step3: Configure NGINX as reverse proxy
 
-```shell
+```js
 location / {
     proxy_pass http://localhost:3000;
     proxy_set_header Host $host;
