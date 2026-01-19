@@ -6,3 +6,4 @@ A comprehensive, hands-on guide to mastering NGINX as a high-performance web ser
 
 * Getting started with NGINX
 * NGINX as a web server
+* NGINX as a reverse proxy
