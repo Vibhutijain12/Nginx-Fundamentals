@@ -5,3 +5,4 @@ A comprehensive, hands-on guide to mastering NGINX as a high-performance web ser
 #### 📖 Table of Contents
 
 * Getting started with NGINX
+* NGINX as a web server. 
