@@ -81,6 +81,9 @@ curl http://localhost
 ```
 
 Run it multiple times — you should see the response alternate between:
+
+
 <img width="416" height="224" alt="image" src="https://github.com/user-attachments/assets/c82bb48a-d6f1-4dfb-9303-8c139ce723f7" />
+
 <img width="534" height="238" alt="image" src="https://github.com/user-attachments/assets/5a5e35c8-e41a-4aa7-a1d2-29b77acac019" />
 
